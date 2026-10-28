@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.streamlit/secrets.toml
+.env
+xmla_bridge/bin/
+xmla_bridge/obj/

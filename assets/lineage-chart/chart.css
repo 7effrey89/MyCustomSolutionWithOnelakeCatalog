@@ -1,0 +1,16 @@
+* { box-sizing: border-box; }
+html, body { margin: 0; width: 100%; height: 100%; font: 12px "Segoe UI", sans-serif; color: #243a33; }
+#chart { position: relative; height: 520px; background: white; border: 1px solid #e3ebe7; border-radius: 6px; overflow: hidden; }
+#chart:fullscreen { width: 100vw; height: 100vh; border: 0; }
+nav { position: absolute; top: 8px; right: 8px; display: flex; gap: 4px; z-index: 1; }
+button { min-width: 32px; height: 30px; border: 1px solid #c8d6d1; border-radius: 4px; background: white; color: #117865; cursor: pointer; }
+button:hover { background: #e3f7ef; }
+button:focus-visible, svg:focus-visible { outline: 2px solid #117865; outline-offset: -2px; }
+#canvas { width: 100%; height: calc(100% - 24px); padding-top: 40px; }
+#canvas svg { display: block; width: 100%; height: 100%; cursor: grab; touch-action: none; }
+#canvas svg:active { cursor: grabbing; }
+#help { position: absolute; bottom: 0; margin: 0; width: 100%; padding: 4px 8px; color: #596e65; background: white; font-size: 11px; }
+#status, #error { margin: 52px 16px 8px; }
+#error { color: #a4262c; }
+#warnings { position: absolute; top: 40px; left: 8px; right: 8px; margin: 0; padding: 6px; background: #fff4ce; color: #654b00; z-index: 1; }
+[hidden] { display: none !important; }

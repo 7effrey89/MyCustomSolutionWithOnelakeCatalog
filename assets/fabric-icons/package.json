@@ -1,0 +1,30 @@
+{
+  "name": "@fabric-msft/svg-icons",
+  "version": "8.2.0",
+  "description": "A publicly available collection of SVG icons for use in Microsoft Fabric platform extension development.",
+  "author": "fabricuxe@service.microsoft.com",
+  "license": "MIT",
+  "packageManager": "yarn@4.12.0",
+  "main": "./index.js",
+  "module": "./index.js",
+  "types": "./index.d.ts",
+  "sideEffects": false,
+  "keywords": [
+    "svg",
+    "fabric",
+    "icon"
+  ],
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.js",
+      "default": "./index.js"
+    },
+    "./*.svg": "./svg/*.svg",
+    "./*": {
+      "types": "./*.d.ts",
+      "import": "./*.js",
+      "default": "./*.js"
+    }
+  }
+}

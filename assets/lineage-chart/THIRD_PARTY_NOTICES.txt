@@ -1,0 +1,47 @@
+Offline lineage renderer
+=======================
+
+Viz.js 3.31.0 (@viz-js/viz)
+Copyright (c) Michael Daines
+License: MIT
+Upstream: https://github.com/mdaines/viz-js
+Unmodified distribution: https://www.npmjs.com/package/@viz-js/viz/v/3.31.0
+The original bundle banner, package metadata and build provenance are retained.
+manifest.json records source URLs and SHA-256 integrity hashes.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Included compiled dependencies (per upstream build provenance)
+-------------------------------------------------------------
+
+Graphviz 16.1.0, licensed under Eclipse Public License 2.0.
+The complete license is retained in Graphviz-COPYING.txt.
+Unmodified source is available at:
+https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/16.1.0/graphviz-16.1.0.tar.gz
+https://gitlab.com/graphviz/graphviz/-/tree/16.1.0
+
+Expat 2.8.5, MIT license.
+The complete copyright and permission notice is retained in Expat-COPYING.txt.
+Source:
+https://github.com/libexpat/libexpat/releases/tag/R_2_8_5
+
+Microsoft Fabric item icons
+--------------------------
+Icons come from the separately bundled @fabric-msft/svg-icons package.
+See ../fabric-icons/THIRD_PARTY_NOTICES.txt for its provenance and MIT terms.

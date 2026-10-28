@@ -1,0 +1,31 @@
+{
+  "package": "@viz-js/viz",
+  "version": "3.31.0",
+  "files": [
+    {
+      "file": "viz-global.js",
+      "url": "https://cdn.jsdelivr.net/npm/@viz-js/viz@3.31.0/dist/viz-global.js",
+      "sha256_base64": "yeCzEPmIORDgHGYFS0i3/0vj2GlRQRFmNecrCvFSaS4="
+    },
+    {
+      "file": "package.json",
+      "url": "https://cdn.jsdelivr.net/npm/@viz-js/viz@3.31.0/package.json",
+      "sha256_base64": "fu6K+2F6EBT0dVXLb/MulTRgWtgrsqbuORTs8H2EEu0="
+    },
+    {
+      "file": "provenance.json",
+      "url": "https://cdn.jsdelivr.net/npm/@viz-js/viz@3.31.0/lib/provenance.json",
+      "sha256_base64": "FGDzdFujADd7pzj+6MP3+vVHRVGQ5QlJDREMT2nuc3k="
+    },
+    {
+      "file": "Graphviz-COPYING.txt",
+      "url": "https://gitlab.com/graphviz/graphviz/-/raw/16.1.0/COPYING",
+      "sha256_base64": "C+zxZWe+t3+iUrdmRjHdF3yPmhiJ5ImVtFN5xxMOUwM="
+    },
+    {
+      "file": "Expat-COPYING.txt",
+      "url": "https://raw.githubusercontent.com/libexpat/libexpat/R_2_8_5/expat/COPYING",
+      "sha256_base64": "MbFd6CqhmoRRVhaaF6VIi/WX5WGywxjRWe1YMTmyXoc="
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self'; img-src data:; connect-src 'none'">
+  <link rel="stylesheet" href="chart.css">
+  <script defer src="viz-global.js"></script>
+  <script defer src="chart.js"></script>
+</head>
+<body>
+  <section id="chart" aria-label="Fabric lineage graph">
+    <nav aria-label="Graph controls">
+      <button id="zoom-in" type="button" aria-label="Zoom in">+</button>
+      <button id="zoom-out" type="button" aria-label="Zoom out">-</button>
+      <button id="fit" type="button">Fit</button>
+      <button id="fullscreen" type="button">Full screen</button>
+    </nav>
+    <p id="status" role="status">Loading lineage graph...</p>
+    <p id="error" role="alert" hidden></p>
+    <p id="warnings" role="status" hidden></p>
+    <div id="canvas"></div>
+    <p id="help">Drag to pan. Use + / - to zoom, arrow keys to pan, and Home to fit.</p>
+  </section>
+</body>
+</html>

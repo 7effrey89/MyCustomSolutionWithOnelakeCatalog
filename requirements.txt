@@ -1,0 +1,6 @@
+streamlit>=1.66,<2
+pandas>=2.3,<4
+azure-identity>=1.25,<2
+requests>=2.32.5,<3
+pyodbc>=5.3,<6
+sqlglot>=28,<31

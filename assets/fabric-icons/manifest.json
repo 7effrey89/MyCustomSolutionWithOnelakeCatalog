@@ -1,0 +1,176 @@
+{
+  "package": "@fabric-msft/svg-icons",
+  "version": "8.2.0",
+  "files": [
+    {
+      "file": "copy_job_20_item.svg",
+      "upstream": "/svg/copy_job_20_item.svg",
+      "sha256_base64": "uEp564ncLVwWB5Pz5E2dKQfB3XSl3lA5gCvAPoRJVPA="
+    },
+    {
+      "file": "dashboard_20_item.svg",
+      "upstream": "/svg/dashboard_20_item.svg",
+      "sha256_base64": "bUCe0nQrZFFCJuixYLb4RfM/7LsMNTdRMmxWHj/kgg0="
+    },
+    {
+      "file": "data_agent_20_item.svg",
+      "upstream": "/svg/data_agent_20_item.svg",
+      "sha256_base64": "b/9f9lbcoiaYzACMhaIN3pWfpXxUlrlKpvbiptyvkuY="
+    },
+    {
+      "file": "data_warehouse_20_item.svg",
+      "upstream": "/svg/data_warehouse_20_item.svg",
+      "sha256_base64": "sIGp8cMxhDOMrqRVw9+a5HBENBs5W3QaMDSaAm1IbXs="
+    },
+    {
+      "file": "dataflow_20_item.svg",
+      "upstream": "/svg/dataflow_20_item.svg",
+      "sha256_base64": "JDuNt7kj2B09BfZsgEC+eCmsaHifCI3bbfWgHE3THgE="
+    },
+    {
+      "file": "dataflow_gen2_20_item.svg",
+      "upstream": "/svg/dataflow_gen2_20_item.svg",
+      "sha256_base64": "Pd6if6bmqhlJ3dIXRnbgECbpU92gQdGjxVxOzr/qkTk="
+    },
+    {
+      "file": "datamart_20_item.svg",
+      "upstream": "/svg/datamart_20_item.svg",
+      "sha256_base64": "RkMznwxL6GPIwCQX/OQpu6vRiNva5UMmUysPfNywo4A="
+    },
+    {
+      "file": "environment_20_item.svg",
+      "upstream": "/svg/environment_20_item.svg",
+      "sha256_base64": "O6Si6DRfyjYMCtso1nrMkPRd8k3l/0tR63GKy4kAYog="
+    },
+    {
+      "file": "event_house_20_item.svg",
+      "upstream": "/svg/event_house_20_item.svg",
+      "sha256_base64": "KUPs9oiRkVdEHYRkPo0zJQjrjyzHrZ97stG3UPQdnPE="
+    },
+    {
+      "file": "eventstream_20_item.svg",
+      "upstream": "/svg/eventstream_20_item.svg",
+      "sha256_base64": "1hdMM39IlDQ+dxY3SgNi9pPXTntnWOgcjJW32eo3efM="
+    },
+    {
+      "file": "experiments_20_item.svg",
+      "upstream": "/svg/experiments_20_item.svg",
+      "sha256_base64": "IbVdRcciPXaE3nYpQZ7AiFLj0OxlLaumzpiBHMMrs3E="
+    },
+    {
+      "file": "function_set_20_item.svg",
+      "upstream": "/svg/function_set_20_item.svg",
+      "sha256_base64": "knpJhyf5NVhFGO1aSbhX0mgOr9g350wX4u0MjyDF48A="
+    },
+    {
+      "file": "generic_placeholder_20_item.svg",
+      "upstream": "/svg/generic_placeholder_20_item.svg",
+      "sha256_base64": "V2I8hWtyZnIvAxJDlk1pXCCfqF6XqOzyM4orp/UoGu0="
+    },
+    {
+      "file": "kql_database_20_item.svg",
+      "upstream": "/svg/kql_database_20_item.svg",
+      "sha256_base64": "fGzUAlbSydLpL0YjjHyxqRegph8ZxSodSLR9E/jsCzc="
+    },
+    {
+      "file": "kql_queryset_20_item.svg",
+      "upstream": "/svg/kql_queryset_20_item.svg",
+      "sha256_base64": "5eGfJf2Kg4arKM3jRtN7O+Mi01tCvvy9/3Hh8qWoOiQ="
+    },
+    {
+      "file": "lakehouse_20_item.svg",
+      "upstream": "/svg/lakehouse_20_item.svg",
+      "sha256_base64": "WuGC3Mn5agdFyuIwzEifyoD5wto0OCTDwfxv8IJ3NOU="
+    },
+    {
+      "file": "mirrored_catalog_20_item.svg",
+      "upstream": "/svg/mirrored_catalog_20_item.svg",
+      "sha256_base64": "1h7YCC8VFpBLK+kVRwvbR0TgyEcCq4NdxtpWIV4Btv0="
+    },
+    {
+      "file": "mirrored_generic_database_20_item.svg",
+      "upstream": "/svg/mirrored_generic_database_20_item.svg",
+      "sha256_base64": "MRRbJyKLi6W4XL6GI8w3XbqFPkRzYfIm3lHD8BExXqM="
+    },
+    {
+      "file": "mirrored_generic_storage_20_item.svg",
+      "upstream": "/svg/mirrored_generic_storage_20_item.svg",
+      "sha256_base64": "uTlJpbfK7crIhx2o9UEJd/dlfX6dv26PKD2O7bRVLqY="
+    },
+    {
+      "file": "model_20_item.svg",
+      "upstream": "/svg/model_20_item.svg",
+      "sha256_base64": "awijG2t1g+FdgxdORAWwBcqoTGkDEH5yKdrb+mdHaH8="
+    },
+    {
+      "file": "notebook_20_item.svg",
+      "upstream": "/svg/notebook_20_item.svg",
+      "sha256_base64": "LLs9FaIulDafSHJ6Jq/b+gEy6ZjnLju8efG2bWak0qg="
+    },
+    {
+      "file": "ontology_20_item.svg",
+      "upstream": "/svg/ontology_20_item.svg",
+      "sha256_base64": "wINOJjcC0BNIw5uvp52spMdWCiTOLaL+gwWMzTTMu6k="
+    },
+    {
+      "file": "operations_agent_20_item.svg",
+      "upstream": "/svg/operations_agent_20_item.svg",
+      "sha256_base64": "1VzmFUWfsOcZB9NpjKd082P2snM8SsGkAz9Gv57xnZc="
+    },
+    {
+      "file": "paginated_report_20_item.svg",
+      "upstream": "/svg/paginated_report_20_item.svg",
+      "sha256_base64": "TELeFjtk2XKin2is+1FbeUkEM4GBU7KccbOIB6fg7lI="
+    },
+    {
+      "file": "pipeline_20_item.svg",
+      "upstream": "/svg/pipeline_20_item.svg",
+      "sha256_base64": "6ZiE5kdVyB5BcMadUJWeHTUPghE3NhhZU4OdoareNzo="
+    },
+    {
+      "file": "planning_20_item.svg",
+      "upstream": "/svg/planning_20_item.svg",
+      "sha256_base64": "sVGPDNbltdwctMTKdS/itEsnIoatmTrcpG6CI6M5reU="
+    },
+    {
+      "file": "real_time_dashboard_20_item.svg",
+      "upstream": "/svg/real_time_dashboard_20_item.svg",
+      "sha256_base64": "xAAHEoVIRhKNKTXNpn7m3eXTbPDRs2lh2YuSsJd7QxA="
+    },
+    {
+      "file": "report_20_item.svg",
+      "upstream": "/svg/report_20_item.svg",
+      "sha256_base64": "c9FaS25/kBJOUf1WZN77lMnHIPvHYGIfsO5IEpKuK+g="
+    },
+    {
+      "file": "scorecard_20_item.svg",
+      "upstream": "/svg/scorecard_20_item.svg",
+      "sha256_base64": "cjGL2xnpFlXxcjtaSKvBQg/f4AdgXsDunqytXUJuOR0="
+    },
+    {
+      "file": "semantic_model_20_item.svg",
+      "upstream": "/svg/semantic_model_20_item.svg",
+      "sha256_base64": "Zrszs6u2Ld1DNb+WxLy1upqyTU+yAlWJKnj/IEx0Df8="
+    },
+    {
+      "file": "spark_job_direction_20_item.svg",
+      "upstream": "/svg/spark_job_direction_20_item.svg",
+      "sha256_base64": "zsQEyVN/hfe9gxKQurUxj7ZWvGNq4nfVEHmVjiSv5fY="
+    },
+    {
+      "file": "sql_database_20_item.svg",
+      "upstream": "/svg/sql_database_20_item.svg",
+      "sha256_base64": "iLtC+R0yJUE4H+oRHs4t8Ujh08dvYjeR1Nu+Ni3BtX0="
+    },
+    {
+      "file": "user_data_function_20_item.svg",
+      "upstream": "/svg/user_data_function_20_item.svg",
+      "sha256_base64": "Qiyf+tDTacUFkiGk0wEwXo/0cOTp1/ukaspSolOMB2Y="
+    },
+    {
+      "file": "variable_library_20_item.svg",
+      "upstream": "/svg/variable_library_20_item.svg",
+      "sha256_base64": "H9M6Y5IzvaYJB9Jjf/38apGbZxOZE+5GbJOxM1XQnSg="
+    }
+  ]
+}
